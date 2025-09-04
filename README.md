@@ -15,11 +15,22 @@
 
 - ⚡ Fun fact **Coding is like chess 😗**
 
+###
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/faresiahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/faresiahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/fares.ahmed.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fares.ahmed.10" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://instagram.com/fares.ahmed.10" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="eng.fares0ahmed@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/in/faresiahmed" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 
 <img align="right" height="150" src="https://i.imgflip.com/a51ivp.gif"  />
 
@@ -105,6 +116,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
 </div>
+
+###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faresahmed23&show_icons=true&locale=en&layout=compact" alt="faresahmed23" /></p>
 
