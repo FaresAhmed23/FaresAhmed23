@@ -126,7 +126,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaresAhmed23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faresahmed23&" alt="faresahmed23" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=faresahmed23&" alt="faresahmed23" /></p>
 
 ###
 
