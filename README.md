@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Devops/ AI / Data Science**
 
+- 🤝 I’m looking for help with **Devops**
+
 - 💬 Ask me about **React, Framer-motion, Gsap, and Nextjs**
 
 - 📫 How to reach me **eng.fares0ahmed@gmail.com**
