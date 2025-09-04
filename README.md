@@ -121,7 +121,7 @@
 
 ###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faresahmed23&show_icons=true&locale=en" alt="faresahmed23" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faresahmed23&show_icons=true&locale=en&layout=compact" alt="faresahmed23" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faresahmed23&show_icons=true&locale=en" alt="faresahmed23" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faresahmed23&show_icons=true&locale=en&layout=compact" alt="faresahmed23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faresahmed23&" alt="faresahmed23" /></p>
 
