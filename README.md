@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faresahmed23" alt="faresahmed23" /></a> </p>
 
+###
+
 - 🌱 I’m currently learning **Devops/ AI / Data Science**
 
 - 💬 Ask me about **React, Framer-motion, Gsap, and Nextjs**
