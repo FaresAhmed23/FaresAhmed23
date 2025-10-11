@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **eng.fares0ahmed@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v_xap42H8vxQVl-wdQ73-BlXVy5QHMr2/view?usp=sharing](https://drive.google.com/file/d/1v_xap42H8vxQVl-wdQ73-BlXVy5QHMr2/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1v_xap42H8vxQVl-wdQ73-BlXVy5QHMr2/view?usp=sharing)
 
-- 🫡 My Portofolio [https://fares-ahmed.vercel.app)
+- 🫡 My Portofolio [Fares Ahmed](https://fares-ahmed.vercel.app)
 
 - ⚡ Fun fact **Coding is like chess 😗**
 
